@@ -38,3 +38,32 @@ An inventory management system designed to track baby products such as formula, 
 1. Clone the repository
 ```bash
 git clone https://github.com/YeibinKang/baby-products-inventory-web
+```
+
+2. Frontend setup
+```bash
+cd frontend
+npm install
+npm start
+```
+
+3. Backend setup
+```bash
+cd backend
+./mvnw spring-boot:run
+```
+
+### Documentation
+For detailed documentation, please refer to the docs folder.
+
+### Demo
+Frontend: https://baby-inventory.vercel.app
+API: https://baby-inventory-api.railway.app
+
+### Developer
+
+Name: Yeibin Kang
+Email: yeibinkang@gmail.com
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
